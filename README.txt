@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/emaamodt/pen/rWMeed.
+
+ Wikipedia Viewer project for Free Code Camp. In progress...
